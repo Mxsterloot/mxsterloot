@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Turning+ideas+into+clean+code;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Turning+ideas+into+clean+code;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -138,12 +138,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxsterloot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=1e90ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxsterloot&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=1e90ff&currStreakLabel=0e75b6" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mxsterloot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=1e90ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mxsterloot&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=1e90ff&currStreakLabel=0e75b6" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxsterloot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mxsterloot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
