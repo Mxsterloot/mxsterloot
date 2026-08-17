@@ -84,6 +84,10 @@
       <br />PHP
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br />Laravel
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br />HTML
     </td>
@@ -91,12 +95,12 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br />CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br />Sass
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br />Tailwind
@@ -117,14 +121,13 @@
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br />Docker
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br />Nginx
-    </td>
   </tr>
 </table>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
